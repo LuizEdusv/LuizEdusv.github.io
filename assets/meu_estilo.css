@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(39, 37, 37);
+}
+
+
+
+#escrita{
+    color: orange;
+}
+#escrita2 {
+    color: black;
+    background-color: rgb(175, 175, 175);
+}
+fieldset{
+    border-color: purple;
+    
+}
+#escritaH{
+    position: relative;
+    float: right;
+    color: orange;
+}
+#escritaP{
+    position: relative;
+    float: right;
+    right: 50px;
+    color: orange;
+}
+#escritaR{
+    position: relative;
+    float: right;
+    right: 100px;
+    color: orange;
+}
+form{
+    position: relative;
+    top: 100px;
+}
+
+
+
